@@ -1,6 +1,4 @@
-# YKS-Net-Hesaplayicisi
+# YKS Net Hesaplayicisi
 ----------------------------------
-Gerekenler: 
-*Python
-
-(Sayısal bölüm için)
+Gerekenler: (sadece) Python
+AYT hesaplaması yapılması için standart bir sayılsal öğrencisi
