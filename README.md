@@ -1,3 +1,3 @@
 # YKS Net Hesaplayicisi
 ----------------------------------
-Gerekenler: (sadece) Python ve bir sayılsal öğrencisi (ayt için)
+Gerekenler: (sadece) Python ve (ayt için) bir adet sayılsal öğrencisi 
